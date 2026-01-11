@@ -1,0 +1,7 @@
+source_std,trial_users,activated_users,converted_users,trial_to_activated_pct,activated_to_converted_pct,avg_activation_days,avg_mrr,avg_churned_30
+FB ads,1223,320,123,0.262,0.384,10.52,53.07,46.61
+Google Ads,971,254,109,0.262,0.429,9.88,54.96,45.71
+LinkedIn,956,274,111,0.287,0.405,9.58,52.69,47.17
+Organic,632,169,69,0.267,0.408,10.8,56.83,38.81
+Others,1541,423,170,0.274,0.402,9.58,53.35,46.79
+Referral,909,269,102,0.296,0.379,9.63,55.37,41.84
