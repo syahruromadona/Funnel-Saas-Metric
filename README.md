@@ -21,9 +21,9 @@ Python: Pandas, Matplotlib, Numpy, Writing functions, statistics
 
 ## 5. Analysis Result
 
-![download.png](attachment:8a8e2896-8ccb-4564-8f09-31dd84190f8b:download.png)
+<img width="630" height="470" alt="download" src="https://github.com/user-attachments/assets/346e9078-7855-4afa-a67b-d6f22cc66a71" />
 
-The perfomance of all 6 channels measured by average MRR per user produced in the past 3 months is relatively similar ranging from RM 52.69 to RM 56.83
+The perfomance of all 6 channels measured by average MRR per user produced in the past 3 months is relatively similar ranging from RM 52.69 to RM 56.83 indicating limited variance and no clear outperforming channel.
 
 | Acquisition Channel | Average MRR (RM) |
 | --- | --- |
