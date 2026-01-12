@@ -168,4 +168,5 @@ SELECT
 	ROUND(AVG(case when is_converted =true then churned_30d_std END)*100,2) as avg_churned_30
 	
 from dedup_table
+
 GROUP by source_std
