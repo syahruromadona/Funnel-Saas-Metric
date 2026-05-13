@@ -1,6 +1,6 @@
 ## Executive summary
 
-(This is a scenario playout)
+(This is a scenario playout with synthetic data)
 
 Three months after engaging with a marketing specialist, this report aim to analyse the customer acquisition channel. I use SQL to clean and prepare the raw funnel data and Python to analyse trial start dates, activation rates, revenue contribution by source and many more. The analysis show the performance is broadly similar thus unlikely to justify budget reallocation at this time. 
 
